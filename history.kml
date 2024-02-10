@@ -1,0 +1,5032 @@
+<?xml version="1.0" encoding="UTF-8"?> <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"> <Folder> <name>UAControlMap History</name> <open>0</open> <Style> <ListStyle> <listItemType>radioFolder</listItemType> <bgColor>00ffffff</bgColor> <maxSnippetLines>2</maxSnippetLines> </ListStyle> </Style>
+
+	<NetworkLink>
+		<name>2022-12-08 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/221208_2014.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2022-12-08 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/221208_2015.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2022-12-09 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/221209_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2022-12-10 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/221210_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2022-12-11 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/221211_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2022-12-12 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/221212_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2022-12-13 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/221213_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2022-12-14 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/221214_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2022-12-15 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/221215_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2022-12-16 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/221216_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2022-12-17 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/221217_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2022-12-18 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/221218_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2022-12-19 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/221219_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2022-12-20 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/221220_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2022-12-21 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/221221_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2022-12-22 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/221222_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2022-12-23 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/221223_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2022-12-24 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/221224_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2022-12-25 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/221225_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2022-12-26 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/221226_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2022-12-27 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/221227_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2022-12-28 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/221228_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2022-12-29 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/221229_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2022-12-30 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/221230_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2022-12-31 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/221231_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-01-01 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230101_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-01-02 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230102_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-01-03 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230103_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-01-04 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230104_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-01-05 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230105_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-01-06 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230106_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-01-07 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230107_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-01-08 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230108_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-01-09 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230109_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-01-10 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230110_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-01-11 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230111_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-01-12 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230112_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-01-13 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230113_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-01-14 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230114_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-01-15 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230115_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-01-16 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230116_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-01-17 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230117_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-01-18 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230118_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-01-19 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230119_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-01-20 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230120_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-01-21 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230121_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-01-22 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230122_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-01-23 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230123_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-01-24 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230124_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-01-25 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230125_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-01-26 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230126_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-01-27 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230127_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-01-28 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230128_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-01-29 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230129_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-01-30 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230130_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-01-31 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230131_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-02-01 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230201_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-02-02 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230202_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-02-03 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230203_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-02-04 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230204_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-02-05 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230205_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-02-06 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230206_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-02-07 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230207_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-02-08 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230208_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-02-09 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230209_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-02-10 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230210_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-02-11 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230211_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-02-12 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230212_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-02-13 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230213_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-02-14 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230214_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-02-15 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230215_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-02-16 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230216_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-02-17 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230217_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-02-18 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230218_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-02-19 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230219_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-02-20 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230220_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-02-21 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230221_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-02-22 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230222_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-02-23 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230223_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-02-24 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230224_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-02-25 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230225_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-02-26 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230226_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-02-27 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230227_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-02-28 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230228_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-01 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230301_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-02 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230302_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-03 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230303_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-04 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230304_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-05 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230305_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-06 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230306_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-07 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230307_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-08 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230308_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-09 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230309_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-10 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230310_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-10 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230310_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-11 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230311_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-11 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230311_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-12 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230312_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-12 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230312_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-13 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230313_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-13 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230313_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-14 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230314_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-14 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230314_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-15 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230315_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-15 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230315_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-16 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230316_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-16 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230316_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-17 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230317_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-17 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230317_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-18 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230318_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-18 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230318_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-19 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230319_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-19 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230319_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-20 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230320_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-20 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230320_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-21 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230321_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-21 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230321_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-22 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230322_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-22 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230322_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-23 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230323_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-23 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230323_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-24 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230324_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-24 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230324_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-25 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230325_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-25 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230325_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-26 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230326_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-26 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230326_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-27 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230327_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-27 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230327_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-28 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230328_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-28 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230328_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-29 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230329_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-29 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230329_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-30 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230330_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-30 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230330_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-31 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230331_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-03-31 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230331_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-01 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230401_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-01 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230401_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-02 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230402_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-02 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230402_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-03 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230403_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-03 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230403_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-04 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230404_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-04 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230404_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-05 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230405_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-05 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230405_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-06 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230406_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-06 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230406_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-07 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230407_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-07 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230407_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-08 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230408_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-08 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230408_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-09 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230409_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-09 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230409_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-10 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230410_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-10 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230410_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-11 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230411_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-11 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230411_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-12 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230412_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-12 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230412_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-13 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230413_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-13 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230413_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-14 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230414_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-14 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230414_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-15 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230415_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-15 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230415_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-16 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230416_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-16 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230416_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-17 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230417_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-17 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230417_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-18 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230418_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-18 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230418_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-19 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230419_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-19 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230419_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-20 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230420_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-20 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230420_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-21 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230421_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-21 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230421_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-22 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230422_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-22 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230422_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-23 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230423_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-23 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230423_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-24 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230424_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-24 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230424_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-25 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230425_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-25 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230425_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-26 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230426_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-26 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230426_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-27 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230427_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-27 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230427_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-28 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230428_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-28 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230428_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-29 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230429_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-29 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230429_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-30 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230430_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-04-30 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230430_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-01 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230501_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-01 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230501_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-02 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230502_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-02 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230502_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-03 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230503_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-03 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230503_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-04 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230504_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-04 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230504_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-05 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230505_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-05 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230505_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-06 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230506_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-06 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230506_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-07 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230507_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-07 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230507_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-08 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230508_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-08 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230508_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-09 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230509_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-09 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230509_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-10 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230510_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-10 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230510_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-11 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230511_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-11 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230511_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-12 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230512_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-12 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230512_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-13 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230513_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-13 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230513_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-14 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230514_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-14 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230514_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-15 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230515_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-15 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230515_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-16 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230516_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-16 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230516_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-17 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230517_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-17 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230517_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-18 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230518_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-18 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230518_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-19 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230519_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-19 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230519_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-20 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230520_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-21 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230521_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-22 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230522_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-23 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230523_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-24 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230524_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-26 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230526_0000.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-26 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230526_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-27 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230527_1147.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-27 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230527_1925.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-28 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230528_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-29 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230529_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-30 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230530_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-05-31 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230531_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-06-01 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230601_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-06-02 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230602_1209.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-06-03 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230603_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-06-04 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230604_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-06-05 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230605_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-06-06 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230606_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-06-07 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230607_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-06-08 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230608_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-06-09 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230609_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-06-10 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230610_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-06-11 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230611_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-06-12 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230612_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-06-13 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230613_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-06-14 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230614_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-06-15 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230615_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-06-16 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230616_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-06-17 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230617_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-06-18 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230618_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-06-19 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230619_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-06-20 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230620_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-06-21 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230621_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-06-22 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230622_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-06-23 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230623_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-06-25 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230625_0351.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-06-26 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230626_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-06-27 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230627_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-06-28 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230628_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-06-29 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230629_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-06-30 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230630_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-07-01 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230701_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-07-02 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230702_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-07-03 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230703_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-07-04 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230704_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-07-05 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230705_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-07-06 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230706_0351.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-07-07 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230707_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-07-08 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230708_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-07-09 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230709_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-07-10 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230710_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-07-11 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230711_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-07-12 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230712_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-07-13 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230713_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-07-14 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230714_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-07-15 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230715_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-07-16 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230716_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-07-17 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230717_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-07-18 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230718_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-07-19 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230719_0406.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-07-20 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230720_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-07-21 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230721_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-07-22 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230722_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-07-23 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230723_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-07-24 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230724_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-07-25 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230725_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-07-26 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230726_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-07-27 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230727_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-07-28 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230728_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-07-29 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230729_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-07-30 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230730_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-07-31 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230731_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-01 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230801_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-02 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230802_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-03 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230803_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-04 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230804_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-05 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230805_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-06 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230806_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-07 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230807_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-08 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230808_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-09 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230809_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-10 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230810_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-11 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230811_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-12 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230812_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-13 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230813_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-14 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230814_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-15 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230815_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-16 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230816_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-17 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230817_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-18 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230818_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-19 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230819_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-20 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230820_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-21 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230821_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-22 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230822_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-23 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230823_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-24 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230824_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-25 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230825_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-26 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230826_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-27 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230827_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-28 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230828_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-29 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230829_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-30 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230830_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-30 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230830_1923.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-08-31 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230831_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-09-01 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230901_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-09-02 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230902_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-09-03 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230903_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-09-04 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230904_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-09-05 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230905_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-09-06 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230906_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-09-07 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230907_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-09-08 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230908_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-09-09 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230909_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-09-10 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230910_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-09-11 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230911_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-09-12 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230912_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-09-13 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230913_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-09-14 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230914_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-09-15 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230915_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-09-16 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230916_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-09-17 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230917_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-09-18 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230918_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-09-19 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230919_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-09-20 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230920_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-09-21 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230921_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-09-22 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230922_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-09-23 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230923_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-09-24 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230924_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-09-25 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230925_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-09-26 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230926_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-09-27 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230927_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-09-28 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230928_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-09-29 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230929_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-09-30 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/230930_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-10-01 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231001_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-10-02 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231002_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-10-03 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231003_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-10-04 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231004_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-10-05 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231005_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-10-06 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231006_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-10-07 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231007_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-10-08 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231008_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-10-09 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231009_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-10-10 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231010_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-10-11 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231011_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-10-12 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231012_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-10-13 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231013_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-10-14 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231014_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-10-15 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231015_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-10-16 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231016_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-10-17 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231017_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-10-18 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231018_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-10-19 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231019_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-10-20 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231020_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-10-21 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231021_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-10-22 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231022_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-10-23 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231023_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-10-24 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231024_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-10-25 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231025_0352.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-10-26 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231026_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-10-27 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231027_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-10-28 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231028_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-10-29 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231029_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-10-30 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231030_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-10-31 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231031_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-11-01 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231101_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-11-02 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231102_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-11-03 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231103_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-11-04 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231104_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-11-05 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231105_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-11-06 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231106_0352.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-11-07 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231107_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-11-08 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231108_0348.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-11-09 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231109_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-11-10 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231110_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-11-11 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231111_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-11-12 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231112_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-11-13 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231113_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-11-14 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231114_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-11-15 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231115_0352.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-11-16 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231116_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-11-17 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231117_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-11-18 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231118_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-11-19 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231119_0348.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-11-20 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231120_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-11-21 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231121_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-11-22 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231122_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-11-23 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231123_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-11-24 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231124_0351.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-11-25 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231125_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-11-26 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231126_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-11-27 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231127_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-11-28 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231128_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-11-29 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231129_0352.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-11-30 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231130_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-12-01 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231201_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-12-02 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231202_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-12-03 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231203_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-12-04 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231204_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-12-05 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231205_0352.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-12-06 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231206_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-12-07 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231207_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-12-08 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231208_0351.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-12-09 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231209_0348.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-12-10 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231210_0351.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-12-11 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231211_0355.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-12-12 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231212_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-12-13 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231213_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-12-14 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231214_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-12-15 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231215_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-12-16 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231216_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-12-17 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231217_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-12-18 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231218_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-12-19 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231219_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-12-20 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231220_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-12-21 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231221_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-12-22 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231222_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-12-23 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231223_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-12-24 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231224_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-12-25 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231225_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-12-26 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231226_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-12-27 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231227_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-12-28 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231228_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-12-29 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231229_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-12-30 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231230_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2023-12-31 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/231231_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-01-01 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240101_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-01-02 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240102_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-01-03 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240103_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-01-04 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240104_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-01-05 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240105_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-01-06 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240106_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-01-07 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240107_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-01-08 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240108_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-01-09 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240109_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-01-10 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240110_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-01-11 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240111_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-01-12 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240112_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-01-13 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240113_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-01-14 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240114_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-01-15 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240115_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-01-16 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240116_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-01-17 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240117_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-01-18 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240118_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-01-19 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240119_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-01-20 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240120_0351.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-01-21 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240121_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-01-22 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240122_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-01-23 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240123_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-01-24 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240124_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-01-25 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240125_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-01-26 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240126_0417.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-01-27 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240127_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-01-28 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240128_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-01-29 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240129_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-01-30 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240130_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-01-31 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240131_0351.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-02-01 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240201_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-02-02 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240202_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-02-03 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240203_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-02-04 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240204_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-02-05 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240205_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-02-06 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240206_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-02-07 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240207_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-02-08 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240208_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-02-09 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240209_0350.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<name>2024-02-10 UAControlMap</name>
+		<Link>
+			<href>https://github.com/owlmaps/UAControlMapBackups/raw/master/240210_0349.kmz</href>
+			<refreshMode>onExpire</refreshMode>
+			<refreshInterval>16204</refreshInterval>
+			<viewRefreshTime>64</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+</Folder></kml>
